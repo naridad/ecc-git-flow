@@ -185,7 +185,7 @@ After you extracted your IceMan project, go inside the IceMan folder that contai
 
 ```
 *
-.gitignore
+!.gitignore
 !IceMan
 !IceMan/Actor.h
 !IceMan/Actor.cpp
