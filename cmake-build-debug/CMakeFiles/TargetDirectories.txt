@@ -1,0 +1,3 @@
+/Users/luciann/Documents/GitHub/introduction-to-github-arianna-t-luciann-v/cmake-build-debug/CMakeFiles/introduction_to_github_arianna_t_luciann_v.dir
+/Users/luciann/Documents/GitHub/introduction-to-github-arianna-t-luciann-v/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/luciann/Documents/GitHub/introduction-to-github-arianna-t-luciann-v/cmake-build-debug/CMakeFiles/rebuild_cache.dir

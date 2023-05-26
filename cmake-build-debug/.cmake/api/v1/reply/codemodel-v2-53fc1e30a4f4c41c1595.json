@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "introduction_to_github_arianna_t_luciann_v",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "introduction_to_github_arianna_t_luciann_v::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-introduction_to_github_arianna_t_luciann_v-Debug-97dec80a6d1449492153.json",
+					"name" : "introduction_to_github_arianna_t_luciann_v",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/luciann/Documents/GitHub/introduction-to-github-arianna-t-luciann-v/cmake-build-debug",
+		"source" : "/Users/luciann/Documents/GitHub/introduction-to-github-arianna-t-luciann-v"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
